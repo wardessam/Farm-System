@@ -1,0 +1,97 @@
+E:\NONA\farm system\Farm_System\Farm_System\bin\Debug\Farm_System.exe.config
+E:\NONA\farm system\Farm_System\Farm_System\bin\Debug\Farm_System.exe
+E:\NONA\farm system\Farm_System\Farm_System\bin\Debug\Farm_System.pdb
+E:\NONA\farm system\Farm_System\Farm_System\bin\Debug\Bunifu.Core.dll
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.Form1.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.Properties.Resources.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.csproj.GenerateResource.Cache
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.exe
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.pdb
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.Form2.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.forget_password.resources
+E:\NONA\farm system\Farm_System\Farm_System\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.main_admin.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.complaints.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.complaint.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.tips.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.add_offer.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.av_crop.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.av_crops.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.main_farmer.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.main_retailer.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.offer.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.offers.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.result_search.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.search.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.ad.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.add_ads.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.farmer_ads.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.main_supplier.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.requested_crop.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.requested_crops.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.statue_ads.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.view_ads.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.search_av_crops.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.view_tip.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.view_tips.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.addavcrops.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.subcomplaints.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.viewoffer.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.viewreqcrop.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.viewreqcrops.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.requestcrops.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.viewcomplaint.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.viewcomplaints.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.viewoffers.resources
+E:\NONA\farm system\Farm_System\Farm_System\obj\Debug\Farm_System.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\farrrrm\Farm_System\Farm_System\bin\Debug\Farm_System.exe.config
+C:\Users\hp\Desktop\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.exe
+C:\Users\hp\Desktop\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.pdb
+C:\Users\hp\Desktop\project is\farrrrm\Farm_System\Farm_System\bin\Debug\Farm_System.exe.config
+C:\Users\hp\Desktop\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.exe
+C:\Users\hp\Desktop\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.pdb
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\bin\Debug\Farm_System.exe.config
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.exe
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.pdb
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\bin\Debug\Farm_System.exe
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\bin\Debug\Farm_System.pdb
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\bin\Debug\Bunifu.Core.dll
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.ad.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.addavcrops.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.add_ads.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.add_offer.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.av_crop.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.av_crops.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.complaint.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.complaints.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.farmer_ads.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.forget_password.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.Form1.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.Form2.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.main_admin.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.main_farmer.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.main_retailer.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.main_supplier.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.offer.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.offers.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.Properties.Resources.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.requestcrops.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.requested_crop.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.requested_crops.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.result_search.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.search.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.search_av_crops.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.statue_ads.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.subcomplaints.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.tips.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.viewcomplaint.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.viewcomplaints.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.viewoffer.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.viewoffers.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.viewreqcrop.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.viewreqcrops.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.view_ads.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.view_tip.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.view_tips.resources
+C:\Users\hp\Documents\second year-first term\project is\farrrrm\Farm_System\Farm_System\obj\Debug\Farm_System.csproj.GenerateResource.Cache
